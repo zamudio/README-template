@@ -18,18 +18,22 @@ Build status of continus integration i.e. travis, appveyor etc. Ex. -
 [![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/akashnimare/foco?branch=master&svg=true)](https://ci.appveyor.com/project/akashnimare/foco/branch/master)
 
 ## Code style
-If you're using any code style like xo, standard etc. That will help others while contributing to your project. Ex. -
-
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 ## Tech/framework used
-Ex. -
-
 Built with:
-- [React](https://reactjs.org)
+- [Gatsby](https://www.gatsbyjs.org/) - Static Site Generator
+- [GraphQL](https://graphql.org/) - Query language for APIs
+- [React](https://es.reactjs.org/) - Front-End JavaScript library
+- [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/) - Front-End UI library
+- [Sass](https://sass-lang.com/documentation) - CSS extension language
 
 ## Features
-What makes your project stand out?
+- One Page Layout built with React
+- Styled with Bootstrap + Custom SCSS
+- Fully Responsive
+- Image optimization with Gatsby
+- Utilizes REST API
 
 ## Code Example
 Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
