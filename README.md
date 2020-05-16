@@ -4,6 +4,13 @@ A little info about your project and/ or overview that explains **what** the pro
 ## Motivation
 A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
 
+## Screenshot
+Include logo/demo screenshot etc.
+<img src="" alt="screenshot" width="450" height="250" />
+
+## How to use?
+If people like your project they’ll want to learn how they can use it. To do so include step by step guide to use your project.
+
 ## Build status
 Build status of continus integration i.e. travis, appveyor etc. Ex. - 
 
@@ -14,16 +21,12 @@ Build status of continus integration i.e. travis, appveyor etc. Ex. -
 If you're using any code style like xo, standard etc. That will help others while contributing to your project. Ex. -
 
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
- 
-## Screenshots
-Include logo/demo screenshot etc.
-<img src="" alt="screenshot" width="450" height="250" />
 
 ## Tech/framework used
 Ex. -
 
-<b>Built with</b>
-- [Electron](https://electron.atom.io)
+Built with:
+- [React](https://reactjs.org)
 
 ## Features
 What makes your project stand out?
@@ -40,9 +43,6 @@ Depending on the size of the project, if it is small and simple enough the refer
 
 ## Tests
 Describe and show how to run the tests with code examples.
-
-## How to use?
-If people like your project they’ll want to learn how they can use it. To do so include step by step guide to use your project.
 
 ## Contribute
 
