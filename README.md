@@ -17,6 +17,7 @@ If you're using any code style like xo, standard etc. That will help others whil
  
 ## Screenshots
 Include logo/demo screenshot etc.
+<img src="" alt="screenshot" width="450" height="250" />
 
 ## Tech/framework used
 Ex. -
@@ -53,6 +54,4 @@ Give proper credits. This could be a link to any repo which inspired you to buil
 #### Anything else that seems useful
 
 ## License
-A short snippet describing the license (MIT, Apache etc)
-
 MIT © [Michael Zamudio](2020)
